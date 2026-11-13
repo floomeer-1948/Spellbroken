@@ -204,4 +204,4 @@ This repository serves as the official landing page for Spellbroken. The softwar
 **Get the most recent version of Spellbroken today!**
 
 ---
-**Last updated:** 2026-11-12 18:00:32 UTC
+**Last updated:** 2026-11-13 00:00:04 UTC
